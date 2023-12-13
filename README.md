@@ -1,5 +1,7 @@
 # Final_Exam_Akila
 
+Workflow :
+
 1)Setting up EC2 Instance:
 I started by creating an EC2 instance, which is like having my own virtual server in the cloud. It's where I plan to run my application.
 
